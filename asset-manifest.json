@@ -1,0 +1,39 @@
+{
+  "files": {
+    "main.css": "/static/css/main.1b60edcc.css",
+    "main.js": "/static/js/main.254bd765.js",
+    "static/js/787.1ed0c42c.chunk.js": "/static/js/787.1ed0c42c.chunk.js",
+    "static/media/loading-avatar.gif": "/static/media/loading-avatar.5244a345b58eb5306e75.gif",
+    "static/media/laffey.jpg": "/static/media/laffey.da687ddd9682b87e8685.jpg",
+    "static/media/montpelier.png": "/static/media/montpelier.b3bd986dc47635aee92b.png",
+    "static/media/bonymous.png": "/static/media/bonymous.b1364ce032ada0f9b7f7.png",
+    "static/media/chilledchino.png": "/static/media/chilledchino.98f377f33985e0a6a70f.png",
+    "static/media/chibisafe-mobile.png": "/static/media/chibisafe-mobile.f8ec31b89920819f5cca.png",
+    "static/media/webplayer.png": "/static/media/webplayer.b587679a9539bb52e50b.png",
+    "static/media/sirius.png": "/static/media/sirius.83ee65ece8afed8a73f1.png",
+    "static/media/web-admin.png": "/static/media/web-admin.263162f560561ce73055.png",
+    "static/media/amagi.png": "/static/media/amagi.6421d1ebeb1ab3eec3bd.png",
+    "static/media/kazagumo.png": "/static/media/kazagumo.9232069854aa1279d86a.png",
+    "static/media/nagato.png": "/static/media/nagato.a6443bf9042c4997d952.png",
+    "static/media/shortener.png": "/static/media/shortener.48d3bad5463c60b6033d.png",
+    "static/media/tashkent.jpg": "/static/media/tashkent.184561c593acb29ccebf.jpg",
+    "static/media/clion.png": "/static/media/clion.900a07c4513a460d4dc3.png",
+    "static/media/linux.png": "/static/media/linux.24a26a2ec29c2e987464.png",
+    "static/media/react.png": "/static/media/react.cd4ab68456d5875b788e.png",
+    "static/media/mongodb.png": "/static/media/mongodb.d0b5b66e7087b90315e0.png",
+    "static/media/uk.svg": "/static/media/uk.acdcd38975ecfc61aadacd52f80c86fd.svg",
+    "static/media/css.png": "/static/media/css.df21fb915d38d540ca71.png",
+    "static/media/azure.png": "/static/media/azure.fa0680a7f17757ba7432.png",
+    "static/media/webstorm.png": "/static/media/webstorm.b48df1e4951a3c0cf8fe.png",
+    "static/media/japan.svg": "/static/media/japan.f78d484e1936793295c05adf7498e3fc.svg",
+    "static/media/element-1.svg": "/static/media/element-1.84ce55150eb197f525e020617a415323.svg",
+    "index.html": "/index.html",
+    "main.1b60edcc.css.map": "/static/css/main.1b60edcc.css.map",
+    "main.254bd765.js.map": "/static/js/main.254bd765.js.map",
+    "787.1ed0c42c.chunk.js.map": "/static/js/787.1ed0c42c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1b60edcc.css",
+    "static/js/main.254bd765.js"
+  ]
+}
